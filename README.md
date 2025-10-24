@@ -1,5 +1,5 @@
 # Cursor-for-MSExcel
-Challenging myself to apply to accelerator or to make it an E2E functional software/SAAS.
+Description is just as the title says.
 
 ## Features 
 <ul>
